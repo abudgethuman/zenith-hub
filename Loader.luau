@@ -1,5 +1,5 @@
 local PlaceId = game.PlaceId
-local BaseURL = "https://raw.githubusercontent.com/YourUsername/MyScriptHub/main/"
+local BaseURL = "https://raw.githubusercontent.com/abudgethuman/zenith-hub/refs/heads/main/"
 
 local function fetchScript(path)
     local success, result = pcall(function()
